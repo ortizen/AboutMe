@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Enrique Ortiz</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name = "bio">"Lorem ipsum dolor sit amet\n\n consectetur adipiscing elit\n sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n Ut enim ad minim veniam\n quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\n Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\n\n Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+</resources>
